@@ -1,0 +1,35 @@
+transaction_id,transaction_date,customer_id,order_id,product_category,quantity,unit_price,discount_pct,revenue,acquisition_channel,region
+T0001,2026-01-04,C001,O1001,Electronics,1,899.00,0.05,854.05,Google Ads,West
+T0002,2026-01-07,C002,O1002,Home & Kitchen,2,120.00,0.10,216.00,Organic Search,North
+T0003,2026-01-12,C003,O1003,Fashion,3,75.00,0.05,213.75,Instagram,West
+T0004,2026-01-18,C004,O1004,Beauty,2,65.00,0.00,130.00,Instagram,South
+T0005,2026-01-25,C005,O1005,Electronics,1,499.00,0.00,499.00,Google Ads,East
+T0006,2026-02-02,C001,O1006,Accessories,2,45.00,0.05,85.50,Email,West
+T0007,2026-02-05,C006,O1007,Home & Kitchen,1,350.00,0.10,315.00,Organic Search,North
+T0008,2026-02-11,C007,O1008,Fashion,2,110.00,0.05,209.00,Instagram,South
+T0009,2026-02-16,C003,O1009,Beauty,3,55.00,0.00,165.00,Email,West
+T0010,2026-02-22,C008,O1010,Electronics,1,799.00,0.05,759.05,Google Ads,East
+T0011,2026-03-03,C002,O1011,Home & Kitchen,2,180.00,0.05,342.00,Email,North
+T0012,2026-03-08,C009,O1012,Fashion,1,250.00,0.10,225.00,Instagram,West
+T0013,2026-03-15,C010,O1013,Beauty,4,48.00,0.05,182.40,Organic Search,South
+T0014,2026-03-21,C005,O1014,Electronics,1,650.00,0.00,650.00,Google Ads,East
+T0015,2026-03-28,C011,O1015,Home & Kitchen,3,95.00,0.10,256.50,Referral,North
+T0016,2026-04-04,C001,O1016,Electronics,1,699.00,0.05,664.05,Email,West
+T0017,2026-04-09,C006,O1017,Fashion,2,145.00,0.00,290.00,Organic Search,North
+T0018,2026-04-14,C007,O1018,Beauty,2,90.00,0.05,171.00,Instagram,South
+T0019,2026-04-19,C012,O1019,Electronics,1,1099.00,0.10,989.10,Google Ads,West
+T0020,2026-04-27,C003,O1020,Accessories,4,35.00,0.00,140.00,Email,West
+T0021,2026-05-03,C002,O1021,Home & Kitchen,1,420.00,0.05,399.00,Email,North
+T0022,2026-05-08,C005,O1022,Electronics,2,275.00,0.10,495.00,Google Ads,East
+T0023,2026-05-13,C008,O1023,Fashion,3,85.00,0.05,242.25,Google Ads,East
+T0024,2026-05-18,C009,O1024,Beauty,2,130.00,0.00,260.00,Instagram,West
+T0025,2026-05-24,C013,O1025,Home & Kitchen,2,210.00,0.10,378.00,Referral,North
+T0026,2026-05-30,C010,O1026,Beauty,3,75.00,0.05,213.75,Organic Search,South
+T0027,2026-06-02,C001,O1027,Accessories,3,55.00,0.00,165.00,Email,West
+T0028,2026-06-07,C006,O1028,Electronics,1,899.00,0.05,854.05,Organic Search,North
+T0029,2026-06-12,C007,O1029,Fashion,2,160.00,0.10,288.00,Instagram,South
+T0030,2026-06-18,C005,O1030,Electronics,1,1299.00,0.05,1234.05,Google Ads,East
+T0031,2026-06-22,C014,O1031,Home & Kitchen,3,140.00,0.05,399.00,Referral,North
+T0032,2026-06-25,C003,O1032,Beauty,2,85.00,0.00,170.00,Email,West
+T0033,2026-06-27,C009,O1033,Fashion,2,115.00,0.05,218.50,Instagram,West
+T0034,2026-06-29,C015,O1034,Electronics,1,749.00,0.00,749.00,Google Ads,South
